@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(145deg, #1f1f2f, #2c2c3e);
+    color: #f4f4f4;
+    min-height: 100vh;
+    overflow: hidden;
+  }
+  
